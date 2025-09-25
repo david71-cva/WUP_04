@@ -79,4 +79,4 @@ After plotting a 98% confidence level, i saw the onlt confindence interval that 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+After this assignment. I learned that numerical categorical is able to deal with two different categories. I analyzed the different categories. This was comparing degree to wordsum. I was able to plot the graph. It showed that that the High School for Q1 is higher than Q3 for LT High School and High School Grad. The graphs plotted proved that. Even with the 98% Confidence level.
